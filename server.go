@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	darkskyAPIURI = "https://api.darksky.net/forecast"
+	darkskyAPIURI = "https://api.pirateweather.net/forecast"
 	geocodeAPIURI = "https://maps.googleapis.com/maps/api/geocode/json"
 )
 
